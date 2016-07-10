@@ -2,6 +2,8 @@
 
 A Crystal library for manipulating os-related things in an os-independent way.
 
+[![Build Status](https://travis-ci.org/mosop/os.svg?branch=master)](https://travis-ci.org/mosop/os)
+
 ## Installation
 
 Add this to your application's `shard.yml`:
